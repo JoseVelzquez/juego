@@ -9,6 +9,8 @@ app.use(express.json())
 const jugadores = []
 
 class Jugador {
+
+  
   constructor(id) {
     this.id = id
   }
