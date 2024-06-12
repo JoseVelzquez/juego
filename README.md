@@ -1,14 +1,3 @@
-## Descripción
-
-Este juego es una aplicación divertida y educativa diseñada para entretener a los usuarios mientras desarrollan habilidades estratégicas. La mecánica del juego y las instrucciones específicas se detallan a continuación.
-
-## Características
-
-- **Gráficos interactivos**: Disfruta de una interfaz de usuario atractiva y fácil de usar.
-- **Niveles progresivos**: Desafía tus habilidades a medida que avanzas por niveles cada vez más difíciles.
-- **Puntuaciones altas**: Compite con amigos y jugadores de todo el mundo para obtener la mejor puntuación.
-- **Actualizaciones regulares**: Nuevas características y correcciones de errores frecuentes.
-
 ## Instalación
 
 Sigue estos pasos para clonar y ejecutar el proyecto en tu máquina local:
