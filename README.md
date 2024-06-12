@@ -1,4 +1,4 @@
-## Instalación
+## Instalación Juego mokepon de platzi
 
 Sigue estos pasos para clonar y ejecutar el proyecto en tu máquina local:
 
